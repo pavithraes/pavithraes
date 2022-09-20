@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 I'm Pavithra, I'm a PyData 🐍 and DevRel 🥑 enthusiast, and my pronouns are she/her. :)
 
-Previously, I worked as a Community Engagement Manager at [Coiled](https://coiled.io), where I helped support 
-[Dask](https://dask.org) users and contributors. I also contribute to the [Bokeh](https://bokeh.org) visualization library,
+I work as an Open Source Developer Advocate at [Quansight](https://quansight.com/).
+Previously, I was as a Community Engagement Manager at [Coiled](https://coiled.io).
+I also contribute to the [Bokeh](https://bokeh.org) and [Dask](https://dask.org) projects,
 and have worked on administrating [Wikimedia](https://wikimediafoundation.org/)’s open source outreach programs in the past.
 
 In my spare time, I enjoy reading a good book 📖 and some black coffee. ☕
