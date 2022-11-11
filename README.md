@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Pavithra, I'm a PyData 🐍 and DevRel 🥑 enthusiast, and my pronouns are she/her. :)
 
-I work as an Open Source Developer Advocate at [Quansight](https://quansight.com/).
+I work as a Developer Advocate at [Quansight](https://quansight.com/), where I work to support the PyData community.
 Previously, I was as a Community Engagement Manager at [Coiled](https://coiled.io).
 I also contribute to the [Bokeh](https://bokeh.org) and [Dask](https://dask.org) projects,
 and have worked on administrating [Wikimedia](https://wikimediafoundation.org/)’s open source outreach programs in the past.
