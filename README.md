@@ -1,25 +1,10 @@
 ### Hi there! 👋
 
-<!--
-**pavithraes/pavithraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I'm Pavithra, I'm a PyData 🐍 and DevRel 🥑 enthusiast, and my pronouns are she/her. :)
 
 I'm a Developer Advocate at [Quansight](https://quansight.com/), where I work to support the PyData community.
-Previously, I was a Community Engagement Manager at [Coiled](https://coiled.io).
-I also contribute to the [Bokeh](https://bokeh.org) and [Dask](https://dask.org) projects,
-and have worked on administrating [Wikimedia](https://wikimediafoundation.org/)’s open source outreach programs in the past.
+Previously, I was a Community Engagement Manager at [Coiled](https://coiled.io), where I worked on [Dask](https://dask.org).
+I also contribute to the [Bokeh](https://bokeh.org) project,
+and have co-administrated [Wikimedia](https://wikimediafoundation.org/)’s open source outreach programs in the past.
 
-In my spare time, I enjoy reading a good book 📖 and some black coffee. ☕
+In my spare time, I enjoy reading a good book 📖 and some hot coffee. ☕
